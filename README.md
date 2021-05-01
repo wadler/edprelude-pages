@@ -1,4 +1,4 @@
-# e-prelude-pages
-The pages repository for the eprelude project.
+# edprelude-pages
+The pages repository for the [edprelude](https://github.com/wadler/edprelude) project.
 
-Also contains some code related to the project that is not widely distributed.
+The markdown file that is displayed when visiting the associated pages site is in docs/index.md.
