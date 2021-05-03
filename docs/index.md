@@ -10,7 +10,7 @@ With Haskell installed, you'll have a copy of Prelude, which is Haskell's standa
 
 ### Mac (OS X)/(UNIX) Instructions:
 To install EdPrelude, follow the link below to get the zip file.  
-[EdPrelude Download](https://github.com/MatthewMarmalade/e-prelude/archive/main.zip)  
+[EdPrelude Download](https://github.com/wadler/edprelude/archive/refs/heads/main.zip)  
 You should download a file named `e-prelude-master.zip`. Unzip this file, and navigate a terminal to the `e-prelude-master` folder (likely within your Downloads folder). At the terminal, within the folder, run the command below:  
 `$ sudo ./install.sh` *(This command will require root access.)*  
 If it succeeded without any errors, you should be done! As a test, run the following command from a new terminal:  
@@ -22,8 +22,8 @@ You should get back the following:
 Demonstrating that you are using EdPrelude's definition of the length function compared to Prelude's.
 
 ### Uninstalling
-If you ever want to uninstall EPrelude, you can navigate to the same file (or re-download it if you've deleted it) and run the command below:  
+If you ever want to uninstall EdPrelude, you can navigate to the same file (or re-download it if you've deleted it) and run the command below:  
 `$ sudo ./uninstall.sh` *(This command will require root access.)* 
 
-#### Updating EPrelude:
-To update EPrelude, download the newest version from the link above, follow the instructions for installing again. You will be prompted before overwriting any of the old versions of files; confirm each overwrite to update.
+#### Updating EdPrelude:
+To update EdPrelude, download the newest version from the link above, follow the instructions for installing again. You will be prompted before overwriting any of the old versions of files; confirm each overwrite to update.
