@@ -11,13 +11,13 @@ With Haskell installed, you'll have a copy of Prelude, which is Haskell's standa
 ### Mac (OS X)/(UNIX) Instructions:
 To install EdPrelude, follow the link below to get the zip file. 
 [EdPrelude Download](https://github.com/wadler/edprelude/archive/refs/heads/main.zip) 
-You should download a file named `ed-prelude.zip`. If it is in your Downloads directory, execute the following in Terminal:
+You should download a file named `edprelude-main.zip`. If it is in your Downloads directory, execute the following in Terminal:
 
 `$ cd Downloads` 
 
-`$ unzip ed-prelude.zip` 
+`$ unzip edprelude-main.zip` 
 
-`$ cd ed-prelude` 
+`$ cd edprelude-main` 
 
 `$ sudo ./install.sh` 
 
